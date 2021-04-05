@@ -1,0 +1,14 @@
+import java.util.scanner
+
+public clas InputOutput{
+
+public static void main(sttring[]largs){
+   scanner scanner = new scanner(system.in);
+   
+   string nama;
+   system.out.print("massukan nama anda :");
+   nama = scanner.nextline()
+  
+  }
+  
+ }
